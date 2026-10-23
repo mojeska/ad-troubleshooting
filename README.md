@@ -19,6 +19,13 @@ Run these from an elevated prompt on a DC, or from an admin workstation with RSA
 | [Kerberos and secure channel](kerberos-secure-channel.md) | Trust relationship failed, SPN problems, ticket issues |
 | [Group Policy](group-policy.md) | A policy isn't applying |
 
+## Disclaimer
+
+> [!WARNING]
+> **Use at your own risk.** These notes and the commands in them are provided as-is, with no warranty or guarantee of any kind. The author accepts no liability for any damage, data loss, downtime or other problems that result from using them.
+>
+> Read and understand anything before you run it, do your own research, and test in a lab before using it in production. See the [MIT License](LICENSE) for the full terms.
+
 ## First five minutes
 
 When someone says "AD is broken", this is the order I check things in:
